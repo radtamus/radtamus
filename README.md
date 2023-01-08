@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radtamus
-- 👀 I’m interested in game development (design, programming) and mathematics
-- 🌱 I’m currently learning Unreal Engine 5
+- 👀 I’m interested in software development and mathematics
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing so far
 - 📫 How to reach me text
 
